@@ -1,0 +1,13 @@
+td {
+    margin: 0px;
+    padding: 15px;
+    border: solid;
+}
+
+.progreso {
+    background-color: red;
+}
+
+.progreso-finalizado {
+    background-color: green;
+}
